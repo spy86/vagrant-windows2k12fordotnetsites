@@ -8,7 +8,7 @@ ENV['VAGRANT_DEFAULT_PROVIDER'] = 'virtualbox'
 
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|  
 
-  config.vm.box = "mmichal/windows2012r2_clean"
+  config.vm.box = "fujiiface/2012r2"
   config.vm.guest = :windows
   
   config.vm.communicator = "winrm"
