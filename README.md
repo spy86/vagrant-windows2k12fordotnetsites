@@ -1,5 +1,6 @@
-"This repository contains Windows Vagrantfile (Windows 2012R2 x64) with all that you need to test ASP.NET Website. " 
-=============================
+# Vagrantbox Windows 2012R2 for .Net Sites
+
+[![Vagrant](https://img.shields.io/badge/vagrant-windows2k12forDotNetsites-orange.svg)]()
 
 
 #Prerequisites
