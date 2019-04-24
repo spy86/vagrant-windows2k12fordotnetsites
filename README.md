@@ -6,7 +6,7 @@
 ## Prerequisites
 * Vagrant - https://releases.hashicorp.com/vagrant/2.2.4/vagrant_2.2.4_x86_64.msi
 * Virtualbox - http://download.virtualbox.org/virtualbox/6.0.4/VirtualBox-6.0.4-128413-Win.exe
-* Vagrant Reload Provisioner - open powershell console and run "vagrant plugin install vagrant-reload"
+* Vagrant Reload Provisioner - open powershell console and run `vagrant plugin install vagrant-reload`
 
 ## How to use?
 
