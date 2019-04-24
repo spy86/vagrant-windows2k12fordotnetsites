@@ -10,10 +10,10 @@
 
 ## How to use?
 
-1. Clone https://bitbucket.org/devops_sysops/windows2k12fordotnetsites
+1. Clone https://github.com/spy86/vagrant-windows2k12fordotnetsites
 2. Run `vagrant up` from terminal and wait while virtual machine is installed.
 
-#Vagrant file includes
+## Vagrant file includes
 
 * Chocolatey
 * IIS, .NET 3.5, .NET 4.5
