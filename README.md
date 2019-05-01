@@ -1,6 +1,6 @@
 # Vagrantbox Windows 2012R2 for .Net Sites
 
-[![Vagrant](https://img.shields.io/badge/vagrant-windows2k12forDotNetsites-orange.svg)]()
+![Vagrant](https://img.shields.io/badge/vagrant-windows2k12forDotNetsites-orange.svg) ![vagrant-windows2k12fordotnetsites](https://img.shields.io/github/issues/spy86/vagrant-windows2k12fordotnetsites.svg) ![vagrant-windows2k12fordotnetsites](https://img.shields.io/github/forks/spy86/vagrant-windows2k12fordotnetsites.svg) ![vagrant-windows2k12fordotnetsites](https://img.shields.io/github/stars/spy86/vagrant-windows2k12fordotnetsites.svg) ![vagrant-windows2k12fordotnetsites](https://img.shields.io/github/license/spy86/vagrant-windows2k12fordotnetsites.svg) ![vagrant-windows2k12fordotnetsites](https://img.shields.io/twitter/url/https/github.com/spy86/vagrant-windows2k12fordotnetsites.svg?style=social)
 
 
 ## Prerequisites
